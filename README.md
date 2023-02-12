@@ -7,7 +7,7 @@ A collection of useful PowerShell scripts for daily use.
 - **[option-selector.ps1](https://github.com/himvins/useful-powershell-scripts/blob/main/option-selector.ps1)** -
   This script allows you to select options using up and down arrow keys and finally hit enter to make your final selection. The selected option is highlighted in blue, making it easy to know where you stand.
 
-- **[prevent-system-lock.ps1](https://github.com/himvins/useful-powershell-scripts/blob/main/prevent-system-lock.ps1)**
+- **[prevent-system-lock.ps1](https://github.com/himvins/useful-powershell-scripts/blob/main/prevent-system-lock.ps1)** -
   This script prevents your system from getting locked. You can set the time in minutes after which the script sends a keystroke to the system. This keeps your system active and prevents it from locking.
 
 ## How to use
