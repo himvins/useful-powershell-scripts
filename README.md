@@ -4,8 +4,8 @@ A collection of useful PowerShell scripts for daily use.
 
 ## Scripts
 
-- Option Selection
-  option-selector.ps1 - This script allows you to select options using up and down arrow keys and finally hit enter to make your final selection. The selected option is highlighted in blue, making it easy to know where you stand. Say goodbye to flickering screens and welcome a seamless experience.
+- option-selector.ps1
+  This script allows you to select options using up and down arrow keys and finally hit enter to make your final selection. The selected option is highlighted in blue, making it easy to know where you stand. Say goodbye to flickering screens and welcome a seamless experience.
 
 ## How to use
 
